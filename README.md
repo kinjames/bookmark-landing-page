@@ -1,19 +1,18 @@
-# Frontend Mentor - Project tracking intro component
+# Frontend Mentor - Manage landing page
 
-![Design preview for the Project tracking intro component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Manage landing page coding challenge](./design/desktop-preview.jpg)
 
-
-This is a solution to the [Project tracking intro component](https://www.frontendmentor.io/challenges/project-tracking-intro-component-5d289097500fcb331a67d80e/hub/project-tracking-intro-component-7t7eIxGbPC). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Manage landing page](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5/hub/manage-landing-page-R-0Lx_RXzf). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshots](#screenshots)
-  - [Links](#links)
+- [The challenge](#the-challenge)
+- [Screenshots](#screenshots)
+- [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [Layout](#layout)
+- [Built with](#built-with)
+- [Layout](#layout)
 - [Author](#author)
 
 ## Overview
@@ -32,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/time-tracking-dashboard-b90pz-qRSy)
-- Live Site URL: [Github](https://kinjames.github.io/time-tracking-dashboard/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/manage-landing-page-ByF2inAJqe)
+- Live Site URL: [Github](https://kinjames.github.io/manage-landing-page/)
 
 ## My process
 
@@ -42,6 +41,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Scss
+- CSS Grid
 - Flexbox
 - JavaScript
 
